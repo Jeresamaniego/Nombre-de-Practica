@@ -1,0 +1,4 @@
+editado sin commitear
+
+este cambio va a estar en el stash,
+ no va a pertenecer a ninguna rama ya que no se comiteo
